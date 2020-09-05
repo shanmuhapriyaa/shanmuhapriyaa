@@ -1,11 +1,12 @@
 ### Hi there 👋 I am Shanmuhapriyaa
 
+I am
 
 - 🔭 I’m currently working as a Machine Learning Engineer in Intelligent process automation.
 - 🌱 I’m currently learning on Deep Learning and Advanced machine learning concepts.
 - 👯 I’m looking to collaborate on any volunteering works related to Data Science,
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/shanmuhapriyaa/)
-- ⚡ Fun fact: I am a 
+- ⚡ Fun fact: I am a avid music lover, with keen interest in photography and gardening.
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
