@@ -2,7 +2,7 @@
 
 I am a Data Science Engineer with expertise in extraction, analysis and prediction. I strongly believe "Learning is a never-ending process" and keep learning at any opportunity. I think & work big with a keen interest in research to bring an optimistic change in society. 
 
-- 🔭 I’m currently working as a Machine Learning Engineer in Intelligent process automation.
+- 🔭 I’m currently working as a Machine Learning Engineer in Intelligent process automation team.
 - 🌱 I’m currently learning on Deep Learning and Advanced machine learning concepts.
 - 👯 I’m looking to collaborate on any volunteering works related to Data Science,
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/shanmuhapriyaa/)
