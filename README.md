@@ -1,24 +1,50 @@
-### Hi there 👋 I am Shanmuhapriyaa
+# Hi, I'm Shanmuhapriyaa Raju 👋
 
-I am a Data Science Engineer with expertise in extraction, analysis and prediction. I strongly believe "Learning is a never-ending process" and keep learning at any opportunity. I think & work big with a keen interest in research to bring an optimistic change in society. 
+**Software Engineer | AI/ML | Generative AI | Aspiring AI Product Manager**
 
-- 🔭 I worked as a Machine Learning Engineer in Intelligent process automation team. I am currently a masters student at AIML in VIT.
-- 🌱 I’m currently learning on Deep Learning and Advanced machine learning concepts.
-- 👯 I’m looking to collaborate on any volunteering works related to Data Science,
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/shanmuhapriyaa/)
-- ⚡ Fun fact: I am a avid music lover, with keen interest in photography and gardening.
+I'm a software engineering professional with a Master's degree in Artificial Intelligence and Machine Learning (Gold Medalist) and experience building enterprise applications, AI-powered solutions, and intelligent automation workflows.
 
-<details open>
-<summary>🤝 <b>To connect with me</b></summary>
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://github.com/shanmuhapriyaa)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/shanmuhapriyaa) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shanmuhapriyaa/)
- 
+My work sits at the intersection of technology, AI, and business problem-solving. I've worked on enterprise product development, machine learning applications, robotic process automation, and AI agents designed to support application-specific coding and streamline access-management workflows.
 
-</p>
-</details>
+I'm particularly interested in the intersection of **AI and Product Management** — understanding user problems, translating business needs into practical solutions, and building technology that creates meaningful impact.
 
+### 💼 What I Work On
 
+- **Enterprise Application Development:** Salesforce Lightning, Java, application development and quality assurance.
+- **AI & Generative AI:** AI agents, machine learning, prompt engineering, and AI-assisted development.
+- **Intelligent Automation:** Python-based automation, workflow analysis, and process optimization.
+- **Data Science & Machine Learning:** Predictive modelling, recommendation systems, data analysis, and ML applications.
+- **Product Management:** Product strategy, market research, competitive analysis, product roadmapping, and user-centric problem-solving.
 
+### 🚀 Areas of Interest
+
+- AI Product Management and AI-powered products
+- Generative AI and intelligent agents
+- Product discovery and problem definition
+- User experience and workflow optimization
+- AI for social good and meaningful real-world applications
+
+### 📂 What You'll Find Here
+
+I'm using GitHub to document my technical projects and build a portfolio of product-oriented work.
+
+- **AI/ML Projects:** Machine learning, recommendation systems, and applied AI.
+- **Product Management:** Case studies covering problem statements, user needs, product thinking, prioritization, and proposed solutions.
+- **AI Experiments:** Practical explorations of generative AI, AI agents, and automation.
+
+### 🤝 Collaboration & Community
+
+I've contributed to AI initiatives as a Lead Machine Learning Engineer with Omdena, including work on AI-driven cardiac arrest prediction.
+
+I also value community involvement and volunteering, and I'm interested in opportunities where technology can contribute to positive social impact.
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/shanmuhapriyaa](https://www.linkedin.com/in/shanmuhapriyaa/)
+- **GitHub:** [github.com/shanmuhapriyaa](https://github.com/shanmuhapriyaa)
+
+### 🌱 Beyond Technology
+
+An avid music lover with interests in photography and gardening.
+
+*"Learning is a continuous journey. Building solutions that matter is the goal."*
